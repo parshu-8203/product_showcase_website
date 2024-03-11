@@ -1,0 +1,56 @@
+
+.custom-navbar {
+    background: linear-gradient(to right, #4CAF50, #FFC107, #FF5722);
+    
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .navbar-nav .nav-link {
+    color: #fff !important;
+    
+}
+
+.custom-navbar .navbar-toggler-icon {
+    background-color: #fff;
+    
+}
+
+
+.carousel-item {
+    height: 400px;
+}
+
+
+.custom-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+.custom-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.custom-card .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.custom-card .card-text {
+    font-size: 1rem;
+}
+
+.custom-card .rating {
+    color: #ffc107;
+    
+}
+.custom-card .cloth{
+    object-fit: cover;
+    object-position: top;
+    height: 255px;
+}
+.acc {
+    object-fit: cover;
+    object-position: top;
+    height: 300px;
+}
